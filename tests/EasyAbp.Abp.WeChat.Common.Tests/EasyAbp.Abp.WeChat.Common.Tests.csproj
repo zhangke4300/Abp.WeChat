@@ -3,7 +3,6 @@
     <Import Project="..\..\common.props" />
 
     <PropertyGroup>
-        <TargetFramework>net6.0</TargetFramework>
         <IsPackable>false</IsPackable>
         <RootNamespace>EasyAbp.Abp.WeChat.Common.Tests</RootNamespace>
     </PropertyGroup>
